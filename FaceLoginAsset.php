@@ -11,5 +11,5 @@ class FaceLoginAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/inquid/yii2-face-login/assets/';
     public $js = ['capture.js'];
-    public $depends = ['main.css'];
+    public $css = ['main.css'];
 }
