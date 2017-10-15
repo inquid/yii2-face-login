@@ -1,0 +1,21 @@
+{
+    "name": "inquid/yii2-face-login",
+    "description": "Yii2 facelogin",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","face","login","facelogin","face-api","microsoft cognitive services"," auth"," authentication"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Luis Gonzalez",
+            "email": "contact@inquid.co"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "inquid\\facelogin\\": ""
+        }
+    }
+}
